@@ -17,11 +17,13 @@
 
 **Para que serve, e quando eu usaria:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+<!-- Usado para controle de versões de projeto e código. -->
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+<!-- Acredito ser uma ferramenta necessária em qualquer projeto que tenha 
+não seja um texto momentâneo e que deva ter um histórico. 
+-->
 
 ---
 
@@ -31,11 +33,13 @@
 
 **Para que serve, e quando eu usaria:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+<!-- Usado para controle de versões de projeto e código. -->
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+<!-- Acredito ser uma ferramenta necessária em qualquer projeto que tenha 
+não seja um texto momentâneo e que deva ter um histórico. 
+-->
 
 ---
 
@@ -45,19 +49,21 @@
 
 **Para que serve, e quando eu usaria:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+<!-- Usado para controle de versões de projeto e código. -->
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+<!-- Acredito ser uma ferramenta necessária em qualquer projeto que tenha 
+não seja um texto momentâneo e que deva ter um histórico. 
+-->
 
 ---
 
 ## Checklist deste arquivo
 
-- [ ] 1. GitHub para Windows
-- [ ] 2. GitHub para Mac
-- [ ] 3. Git para todas as plataformas
+- [X] 1. GitHub para Windows
+- [X] 2. GitHub para Mac
+- [X] 3. Git para todas as plataformas
 
 ---
 
