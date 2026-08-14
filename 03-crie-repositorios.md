@@ -19,7 +19,7 @@ git init [nome-do-projeto]
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+<!-- Comando inicial para configuração do git em uma pasta para tornar ele um repositório. -->
 
 **Quando usar / observação:**
 
@@ -35,7 +35,7 @@ git clone [url]
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+<!-- Comando para clonar um repositório já existente. -->
 
 **Quando usar / observação:**
 
@@ -45,8 +45,8 @@ git clone [url]
 
 ## Checklist deste arquivo
 
-- [ ] 1. `git init [nome-do-projeto]`
-- [ ] 2. `git clone [url]`
+- [X] 1. `git init [nome-do-projeto]`
+- [X] 2. `git clone [url]`
 
 ---
 
